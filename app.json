@@ -1,0 +1,27 @@
+{
+  "id": "adcbe921-9f33-4705-8a96-c6ea0a8c6b9e",
+  "name": "ARMINVTEST",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 1,
+      "to": 99000959
+    }
+  ],
+
+  "runtime": "7.0",
+  "target": "OnPrem",
+  "features": ["NoImplicitWith"]
+}

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Query 2603778924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Remain. Amt. By Due Date</source>
+          <target>Cust. Remain. Amt. By Due Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Cust. Remain. Amt. By Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 58031099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Entries Base Amt. Sum</source>
+          <target>VAT Entries Base Amt. Sum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query VAT Entries Base Amt. Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4021935622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Customer List</source>
+          <target>Power BI Customer List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Customer List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2790879877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vend. Ledg. Entry Remain. Amt.</source>
+          <target>Vend. Ledg. Entry Remain. Amt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vend. Ledg. Entry Remain. Amt. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1961980235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI GL Amount List</source>
+          <target>Power BI GL Amount List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI GL Amount List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 867254446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Vendor List</source>
+          <target>Power BI Vendor List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Vendor List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2431967332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Item Purchase List</source>
+          <target>Power BI Item Purchase List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Item Purchase List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2356397725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Ledg. Entry Remain. Amt.</source>
+          <target>Cust. Ledg. Entry Remain. Amt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Cust. Ledg. Entry Remain. Amt. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1635146897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI GL Budgeted Amount</source>
+          <target>Power BI GL Budgeted Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI GL Budgeted Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2592951158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Jobs List</source>
+          <target>Power BI Jobs List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Jobs List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2029230303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Purchase List</source>
+          <target>Power BI Purchase List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Purchase List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2288060193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Vendor Ledger Entries</source>
+          <target>Power BI Vendor Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Vendor Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1674891205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Cust. Item Ledg. Ent.</source>
+          <target>Power BI Cust. Item Ledg. Ent.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Cust. Item Ledg. Ent. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2401557842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Sales List</source>
+          <target>Power BI Sales List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Sales List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2196010896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Dashboard</source>
+          <target>Sales Dashboard</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Sales Dashboard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4091685685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Top Cust. Overview</source>
+          <target>Power BI Top Cust. Overview</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Top Cust. Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4091685685 - QueryElement 1822556590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Entry No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Top Cust. Overview - QueryElement Entry_No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4091685685 - QueryElement 930444869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Top Cust. Overview - QueryElement Posting_Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4091685685 - QueryElement 3431080422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Customer No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Top Cust. Overview - QueryElement Customer_No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4091685685 - QueryElement 4030187347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales (LCY)</source>
+          <target>Sales (LCY)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Top Cust. Overview - QueryElement Sales_LCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1815987221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Purchase Hdr. Vendor</source>
+          <target>Power BI Purchase Hdr. Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Purchase Hdr. Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4091685685 - QueryElement 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Top Cust. Overview - QueryElement Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1744415261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Item Sales List</source>
+          <target>Power BI Item Sales List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Item Sales List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 334893749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Entry Dimensions</source>
+          <target>G/L Entry Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query G/L Entry Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 985143877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Sales Hdr. Cust.</source>
+          <target>Power BI Sales Hdr. Cust.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Sales Hdr. Cust. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3294813581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Item Ledger Entries</source>
+          <target>Vendor Item Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Vend. Item Ledg. Ent. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 302847484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set Entries</source>
+          <target>Dimension Set Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Dimension Set Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 290073310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Sales by Customer</source>
+          <target>Item Sales by Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Item Sales by Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3251045021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Docs. With No Inc. Doc.</source>
+          <target>Posted Docs. With No Inc. Doc.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Posted Docs. With No Inc. Doc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 274702192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Cust. Ledger Entries</source>
+          <target>Power BI Cust. Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Power BI Cust. Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3209760122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inc. Doc. Atts. Ready for OCR</source>
+          <target>Inc. Doc. Atts. Ready for OCR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Inc. Doc. Atts. Ready for OCR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3725972565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Orders by Sales Person</source>
+          <target>Sales Orders by Sales Person</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Sales Orders by Sales Person - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3537987586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OCR Vendor Bank Accounts</source>
+          <target>OCR Vendor Bank Accounts</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query OCR Vendor Bank Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1567633909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Ledger Entries</source>
+          <target>Vendor Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vendor Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4191129632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Top Customer Overview</source>
+          <target>Top Customer Overview</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Top Customer Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2591587468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account Ledger Entries</source>
+          <target>Bank Account Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Bank Account Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2821375763 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EU VAT Entries</source>
+          <target>EU VAT Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query EU VAT Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3595318222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Entries</source>
+          <target>Item Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Item Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1246298993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Opportunities</source>
+          <target>Sales Opportunities</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Sales Opportunities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4150831122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Budget Entry Dimensions</source>
+          <target>G/L Budget Entry Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query G/L Budget Entry Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 225828172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Ledger Entries</source>
+          <target>Job Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Job Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4052886773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Budget Entries</source>
+          <target>G/L Budget Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query G/L Budget Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2210492450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Segment Lines</source>
+          <target>Segment Lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Segment Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2428026387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CF Forecast Entry Dimensions</source>
+          <target>CF Forecast Entry Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query CF Forecast Entry Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2788181979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OCR Vendors</source>
+          <target>OCR Vendors</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query OCR Vendors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3307513763 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed Job Queue Entry</source>
+          <target>Failed Job Queue Entry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Failed Job Queue Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 152654995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Sets</source>
+          <target>Dimension Sets</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Dimension Sets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 857396364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis View Entry Dimensions</source>
+          <target>Analysis View Entry Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Analysis View Entry Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4089666586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trailing Sales Order Qry</source>
+          <target>Trailing Sales Order Qry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Trailing Sales Order Qry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 524247428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users in User Groups</source>
+          <target>Users in User Groups</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Users in User Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3982318766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis View Budg. Entry Dims</source>
+          <target>Analysis View Budg. Entry Dims</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Analysis View Budg. Entry Dims - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3514679556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Ledger Entries</source>
+          <target>Cust. Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Cust. Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2925236906 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Entries</source>
+          <target>G/L Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query G/L Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2513602899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Entries</source>
+          <target>Value Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Value Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2633264518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Colm. Layt. Colm. Header Count</source>
+          <target>Colm. Layt. Colm. Header Count</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Colm. Layt. Colm. Header Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4019747332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Line Desc. Count</source>
+          <target>Analysis Line Desc. Count</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Analysis Line Desc. Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1717547351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Res. Ledger Entries</source>
+          <target>Res. Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Res. Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1091427891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Rec. Match Candidates</source>
+          <target>Bank Rec. Match Candidates</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Bank Rec. Match Candidates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2416152596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Exch. Field Details</source>
+          <target>Data Exch. Field Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Data Exch. Field Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2686412910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Instance</source>
+          <target>Workflow Instance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Workflow Instance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4115128724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Column Header Count</source>
+          <target>Analysis Column Header Count</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Analysis Column Header Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1906922025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Ledg. Entry Sales</source>
+          <target>Cust. Ledg. Entry Sales</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Cust. Ledg. Entry Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2671222301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delayed Prod. Orders - by Cost</source>
+          <target>Delayed Prod. Orders - by Cost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Delayed Prod. Orders - by Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 377345500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Ledger Entries</source>
+          <target>FA Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query FA Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3997548690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Top 10 Customer Sales</source>
+          <target>Top 10 Customer Sales</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Top 10 Customer Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3812424798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis View Source</source>
+          <target>Analysis View Source</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Analysis View Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3791894762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Definition</source>
+          <target>Workflow Definition</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Workflow Definition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3754589658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locations from items Sales</source>
+          <target>Locations from items Sales</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Locations from items Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1815919530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Count Sales Orders</source>
+          <target>Count Sales Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Count Sales Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1846668439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users in Plans</source>
+          <target>Users in Plans</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Users in Plans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1846668439 - QueryElement 3454837147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User State</source>
+          <target>User State</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Users in Plans - QueryElement User_State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2197365389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Vendors</source>
+          <target>My Vendors</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query My Vendors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3918903493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Videos with Category</source>
+          <target>Product Videos with Category</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Product Videos with Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3705965301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Prod. Orders - By Cost</source>
+          <target>My Prod. Orders - By Cost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query My Prod. Orders - By Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2340256846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locations from items Purch</source>
+          <target>Locations from items Purch</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Locations from items Purch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1396924052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Top-10 Prod. Orders - by Cost</source>
+          <target>Top-10 Prod. Orders - by Cost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Top-10 Prod. Orders - by Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 850947301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Groups For Tax Areas</source>
+          <target>Tax Groups For Tax Areas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Tax Groups For Tax Areas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1984378597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Customers</source>
+          <target>My Customers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query My Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2208341123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot Numbers by Bin</source>
+          <target>Lot Numbers by Bin</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Lot Numbers by Bin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 316721668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Prod. Orders - by Cost</source>
+          <target>Pending Prod. Orders - by Cost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Pending Prod. Orders - by Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3924222614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Items</source>
+          <target>My Items</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query My Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3779495958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Delayed Prod. Orders</source>
+          <target>My Delayed Prod. Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query My Delayed Prod. Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1903615561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>customerSales</source>
+          <target>customerSales</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Customer Sales Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1903615561 - QueryElement 38468747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <target>Id</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Customer Sales Entity - QueryElement customerId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1903615561 - QueryElement 3226897001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target>No</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Customer Sales Entity - QueryElement customerNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1903615561 - QueryElement 3558812865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Customer Sales Entity - QueryElement name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1903615561 - QueryElement 3753243362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalSalesAmount</source>
+          <target>TotalSalesAmount</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Customer Sales Entity - QueryElement totalSalesAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1903615561 - QueryElement 4166835688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateFilter</source>
+          <target>DateFilter</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Customer Sales Entity - QueryElement dateFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 949500017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>vendorPurchases</source>
+          <target>vendorPurchases</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vendor Purchases Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 949500017 - QueryElement 149332515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <target>Id</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vendor Purchases Entity - QueryElement vendorId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 949500017 - QueryElement 712552689 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target>No</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vendor Purchases Entity - QueryElement vendorNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 949500017 - QueryElement 3558812865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vendor Purchases Entity - QueryElement name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 949500017 - QueryElement 1120818727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalPurchaseAmount</source>
+          <target>TotalPurchaseAmount</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vendor Purchases Entity - QueryElement totalPurchaseAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 949500017 - QueryElement 4166835688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateFilter</source>
+          <target>DateFilter</target>
+          <note from="Developer" annotates="general" priority="2">, Locked=true</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Vendor Purchases Entity - QueryElement dateFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2773617953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Analysis View Source</source>
+          <target>Item Analysis View Source</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Item Analysis View Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1000192431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Employees at Locations</source>
+          <target>Whse. Employees at Locations</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Whse. Employees at Locations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4208586367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Count Purchase Orders</source>
+          <target>Count Purchase Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Count Purchase Orders - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
