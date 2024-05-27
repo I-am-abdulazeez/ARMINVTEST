@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Folder you wanna look at
-const folderPath = path.join(__dirname, 'XMLPort');
-const prefix = 'Xml';
+const folderPath = path.join(__dirname, 'Page');
+const prefix = 'Pag';
 const startingNumber = 52121000;
 
 function renameAndModifyFiles(folderPath, prefix, startingNumber) {
@@ -31,9 +31,7 @@ function renameAndModifyFiles(folderPath, prefix, startingNumber) {
       const fileNameWithoutExtension = path.basename(file, fileExtension);
 
       // Extract the actual name after "Table X - " part
-      const nameMatch = fileNameWithoutExtension.match(
-        /XMLport\s+\d+\s+-\s+(.*)/
-      );
+      const nameMatch = fileNameWithoutExtension.match(/Page\s+\d+\s+-\s+(.*)/);
       if (!nameMatch) {
         console.error(`Skipping invalid file name format: ${file}`);
         return;
@@ -51,10 +49,7 @@ function renameAndModifyFiles(folderPath, prefix, startingNumber) {
         }
 
         // Modify file content, change you desire file content. For page, change to page
-        const updatedData = data.replace(
-          /xmlport\s+\d+/,
-          `xmlport ${fileNumber}`
-        );
+        const updatedData = data.replace(/page\s+\d+/, `page ${fileNumber}`);
 
         // Write modified content to new file
         fs.writeFile(newFilePath, updatedData, (err) => {
